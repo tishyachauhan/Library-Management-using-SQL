@@ -1,4 +1,4 @@
-# Library-Management-using-SQL
+![image](https://github.com/user-attachments/assets/3aff3475-d1d7-4dc7-bce1-ac79d3787954)# Library-Management-using-SQL
 
 ## Project Overview
 This project implements a comprehensive **Library Management System** using **SQL**. It includes database setup, CRUD operations, advanced queries, stored procedures, and CTAS (Create Table As Select) queries to efficiently manage books, members, employees, and library transactions.
@@ -6,7 +6,8 @@ This project implements a comprehensive **Library Management System** using **SQ
 **Project Title**: Library Management System  
 **Level**: Intermediate  
 **Database**: `library_db`
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F333618284913118749%2F&psig=AOvVaw0HS8QH1R5C6ZTX8vOWYdI8&ust=1738997740344000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC-qsn9sIsDFQAAAAAdAAAAABAE
+
+![Library Management System](![Uploading image.png…])
 ![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
 ## Objectives
