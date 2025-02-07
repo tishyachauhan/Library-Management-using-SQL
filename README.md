@@ -7,7 +7,7 @@ This project implements a comprehensive **Library Management System** using **SQ
 **Level**: Intermediate  
 **Database**: `library_db`
 
-![Library Management System](https://ps.w.org/library-management-system/assets/banner-1544x500.jpg?rev=3094774)
+![Library Management System](https://blogimages.softwaresuggest.com/blog/wp-content/uploads/2023/02/30120325/Top-5-Benefits-of-Library-Management-System-for-Education.png)
 
 ## Objectives
 
