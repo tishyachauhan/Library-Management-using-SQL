@@ -19,7 +19,7 @@ This project implements a comprehensive **Library Management System** using **SQ
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+![ERD](![image](https://github.com/user-attachments/assets/e92a3437-0289-4f45-a6db-e070c34b23d2))
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -131,10 +131,8 @@ CREATE TABLE return_status
 - **Identify Members with Overdue Books**: Find members with books overdue beyond `30 days`.
 - **Update Book Status on Return**: Implement a stored procedure to update book status when returned.
 - **Branch Performance Report**: Generate a summary report for branches, including books issued, returned, and revenue.
-- **CTAS: Create a Table of Active Members**: Store members who issued at least one book in the last `2 months`.
+- **CTAS: Create a Table of Active Members**: Store members who issued at least one book in the last `10 months`.
 - **Find Employees with the Most Book Issues Processed**: Identify the top `3 employees` who processed the most book issues.
-- **Identify Members Issuing High-Risk Books**: Find members who issued books marked as "damaged" multiple times.
-- **Stored Procedure to Manage Book Issuance**: Implement a stored procedure to check book availability and update status on issue.
 - **CTAS: Identify Overdue Books & Calculate Fines**: Create a table storing members with overdue books and calculate fines.
 
 ## Reports
