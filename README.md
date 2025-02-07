@@ -7,7 +7,7 @@ This project implements a comprehensive **Library Management System** using **SQ
 **Level**: Intermediate  
 **Database**: `library_db`
 
-![Library Management System](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsv5glwonyKZoix13xkW7_6y8PuivjcFUjRA&s)
+![Library Management System](https://www.newsclick.in/sites/default/files/styles/responsive_885/public/2022-06/Books%20and%20Library.jpeg?itok=eSU_pPaH)
 ![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
 ## Objectives
