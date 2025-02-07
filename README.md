@@ -19,7 +19,8 @@ This project implements a comprehensive **Library Management System** using **SQ
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](![image]("C:\Users\tishya\OneDrive\Pictures\Screenshots\Screenshot 2025-02-07 142154.png")
+![ERD](![image](![Screenshot 2025-02-07 142154](https://github.com/user-attachments/assets/68955be2-7641-4d96-a907-47eae8318ce2)
+)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
